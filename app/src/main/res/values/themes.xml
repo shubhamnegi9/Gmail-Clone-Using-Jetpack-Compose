@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GmailClone" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:activatedBackgroundIndicator">@drawable/drawer_list_selector</item>
+    </style>
+</resources>
